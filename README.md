@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-![Imgur](./images/banner-2.png)
+![Imgur](https://github.com/Eklavya42/Eklavya42/raw/master/images/banner-2.png)
 ## Hi there 👋
 
 I'm Eklavya Chopra. I’m currently an undergraduate student at Cluster Innovation Centre, University of Delhi pursuing B.Tech in Information Technology and Mathematics with a minor in Systems Biology.I am interesed to work on Deep Learning problems. 
